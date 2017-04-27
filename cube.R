@@ -1,3 +1,3 @@
-ncube<- function(x) { 
+cube_it<- function(x) { 
   x^3
 }
